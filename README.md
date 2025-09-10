@@ -5,7 +5,8 @@ It documents my progress as I advance through the graded levels of guitar profic
 
 ## 📂 Contents
 - **GuitarGrade1Transcript.pdf** – Transcript for Rockschool Guitar Grade 1  
-- **GuitarGrade2Transcript.pdf** – Transcript for Rockschool Guitar Grade 2  
+- **GuitarGrade2Transcript.pdf** – Transcript for Rockschool Guitar Grade 2
+- **GuitarGrade2Certificate.pdf** – Certificate for Rockschool Guitar Grade 2  
 - **GuitarGrade3Certificate.pdf** – Certificate for Rockschool Guitar Grade 3  
 - **GuitarGrade4Certificate.pdf** – Certificate for Rockschool Guitar Grade 4  
 
